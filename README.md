@@ -24,7 +24,7 @@ The project has the following testing types present:
   
 - **Usability Testing**: Usability testing is a type of software testing that focuses on evaluating the ease of use and user-friendliness of an application. It involves gathering feedback from real users to assess how well the application meets their needs, how easily they can navigate through it, and how intuitively they can perform tasks.
 
-![User-testing-infographic_v5](https://github.com/Akib7/Test-Case-Project-Pickaboo/assets/75217894/67074e20-0b54-4c9f-9218-0797e0a5be27)
+  ![User-testing-infographic_v5](https://github.com/Akib7/Test-Case-Project-Pickaboo/assets/75217894/67074e20-0b54-4c9f-9218-0797e0a5be27)
 
 This project also include:
 
