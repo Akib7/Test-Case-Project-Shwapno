@@ -53,13 +53,21 @@ The project is organized into the following sections:
 
 Each test case is organized into the following sections:
 
-**Test Case ID**: A unique identifier for the test case.
-Test Objective: A brief description of the objective or purpose of the test case.
-**Preconditions**: Any necessary prerequisites or conditions that must be met before executing the test case.
-**Test Steps**: Detailed step-by-step instructions on how to execute the test case.
-**Expected Results**: The expected outcome or behavior of the Pickaboo application after executing the test steps.
-**Test Data**: Any specific test data or inputs required for executing the test case.
-**Test Environment**: The hardware, software, and configuration requirements for executing the test case.
-**Test Status**: The current status of the test case (e.g., Pass, Fail, In Progress).
-**Notes**: Additional notes or comments related to the test case, such as known issues or suggestions for improvement.
+- **Test Case ID**: A unique identifier for the test case.
+  
+- **Test Objective**: A brief description of the objective or purpose of the test case.
+  
+-**Preconditions**: Any necessary prerequisites or conditions that must be met before executing the test case.
+  
+- **Test Steps**: Detailed step-by-step instructions on how to execute the test case.
+  
+- **Expected Results**: The expected outcome or behavior of the Pickaboo application after executing the test steps.
+  
+- **Test Data**: Any specific test data or inputs required for executing the test case.
+  
+- **Test Environment**: The hardware, software, and configuration requirements for executing the test case.
+  
+- **Test Status**: The current status of the test case (e.g., Pass, Fail, In Progress).
+  
+- **Notes**: Additional notes or comments related to the test case, such as known issues or suggestions for improvement.
 
