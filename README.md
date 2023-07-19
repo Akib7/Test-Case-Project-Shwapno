@@ -57,7 +57,7 @@ Each test case is organized into the following sections:
   
 - **Test Objective**: A brief description of the objective or purpose of the test case.
   
--**Preconditions**: Any necessary prerequisites or conditions that must be met before executing the test case.
+- **Preconditions**: Any necessary prerequisites or conditions that must be met before executing the test case.
   
 - **Test Steps**: Detailed step-by-step instructions on how to execute the test case.
   
